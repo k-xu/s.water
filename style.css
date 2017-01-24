@@ -1,6 +1,6 @@
 html {
     width: 610px;
-    height: 610px;
+    height: 310px;
     background: black;
 }
 
@@ -10,7 +10,7 @@ body {
     left: -10px;
     background: white;
     width: 610px;
-    height: 610px;
+    height: 410px;
     border: none;
 }
 
@@ -31,11 +31,11 @@ hr {
 
 .textdisplay {
     float: left;
-    margin-top: 5px;
-    width: 365px; height: 410px;
+    margin-top: 0px;
+    width: 365px; height: 240px;
     margin-left: 50px;
     border: none;
-    padding: 20px; padding-top: 0px; padding-right: 70px;
+    padding: 20px; padding-top: 0px; padding-right: 130px;
     color: black;
     font-family: "atlas typewriter";
     font-weight: 300px;
